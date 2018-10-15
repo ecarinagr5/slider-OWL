@@ -1,0 +1,16 @@
+.item {
+    background : #ff8810;
+    height: 150px;
+  }
+  .my-owl-nav {
+    margin-top: 40px;
+  }
+  .my-owl-nav span {
+    background:#eaeaea;
+    padding: 20px;
+    margin: 0 4px;
+  }
+  
+  .my-owl-nav span:hover {
+    cursor: pointer;
+  }
